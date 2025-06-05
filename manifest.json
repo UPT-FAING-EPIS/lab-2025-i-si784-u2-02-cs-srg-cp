@@ -1,0 +1,131 @@
+{
+  "source_base_path": "/home/runner/work/lab-2025-i-si784-u2-02-cs-srg-cp/lab-2025-i-si784-u2-02-cs-srg-cp/PrimeService",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "Cobertura/SummaryGithub.md",
+      "output": {
+        ".html": {
+          "relative_path": "Cobertura/SummaryGithub.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "disenio.md",
+      "output": {
+        ".html": {
+          "relative_path": "disenio.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/Primes.Lib.PrimeService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Primes.Lib.PrimeService.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Primes.Lib.PrimeService",
+      "Summary": "<p sourcefile=\"docs/Primes.Lib.PrimeService.yml\" sourcestartlinenumber=\"1\">Proporciona servicios relacionados con números primos.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/Primes.Lib.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Primes.Lib.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Primes.Lib",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/Primes.Tests.PrimeServiceTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Primes.Tests.PrimeServiceTests.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Primes.Tests.PrimeServiceTests",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/Primes.Tests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/Primes.Tests.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Primes.Tests",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

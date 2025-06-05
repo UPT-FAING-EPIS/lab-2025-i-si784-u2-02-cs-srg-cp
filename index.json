@@ -1,0 +1,37 @@
+{
+  "Cobertura/SummaryGithub.html": {
+    "href": "Cobertura/SummaryGithub.html",
+    "title": "Summary | PrimeService App",
+    "summary": "Summary Summary Generated on: 06/05/2025 - 02:45:18 Coverage date: 06/05/2025 - 02:45:16 Parser: Cobertura Assemblies: 1 Classes: 1 Files: 1 Line coverage: 100% (10 of 10) Covered lines: 10 Uncovered lines: 0 Coverable lines: 10 Total lines: 31 Branch coverage: 100% (6 of 6) Covered branches: 6 Total branches: 6 Method coverage: Feature is only available for sponsors Coverage Primes.Lib - 100% Name Line Branch Primes.Lib 100% 100% Primes.Lib.PrimeService 100% 100%"
+  },
+  "disenio.html": {
+    "href": "disenio.html",
+    "title": "| PrimeService App",
+    "summary": "classDiagram class PrimeService PrimeService : +IsPrime() Boolean"
+  },
+  "docs/Primes.Lib.PrimeService.html": {
+    "href": "docs/Primes.Lib.PrimeService.html",
+    "title": "Class PrimeService | PrimeService App",
+    "summary": "Class PrimeService Namespace Primes.Lib Assembly Primes.Lib.dll Proporciona servicios relacionados con números primos. public class PrimeService Inheritance object PrimeService Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods IsPrime(int) Determina si un número entero es primo. public bool IsPrime(int candidate) Parameters candidate int El número entero a evaluar. Returns bool true si el número es primo; de lo contrario, false."
+  },
+  "docs/Primes.Lib.html": {
+    "href": "docs/Primes.Lib.html",
+    "title": "Namespace Primes.Lib | PrimeService App",
+    "summary": "Namespace Primes.Lib Classes PrimeService Proporciona servicios relacionados con números primos."
+  },
+  "docs/Primes.Tests.PrimeServiceTests.html": {
+    "href": "docs/Primes.Tests.PrimeServiceTests.html",
+    "title": "Class PrimeServiceTests | PrimeService App",
+    "summary": "Class PrimeServiceTests Namespace Primes.Tests Assembly Primes.Tests.dll public class PrimeServiceTests Inheritance object PrimeServiceTests Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Constructors PrimeServiceTests() public PrimeServiceTests() Methods IsPrime_InputIs1_ReturnFalse() [Fact] public void IsPrime_InputIs1_ReturnFalse() IsPrime_NonPrimeNumbersBetween2And20_ReturnFalse(int) [Theory] [InlineData(new object[] { 4 })] [InlineData(new object[] { 6 })] [InlineData(new object[] { 8 })] [InlineData(new object[] { 9 })] [InlineData(new object[] { 10 })] [InlineData(new object[] { 12 })] [InlineData(new object[] { 14 })] [InlineData(new object[] { 15 })] [InlineData(new object[] { 16 })] [InlineData(new object[] { 18 })] [InlineData(new object[] { 20 })] public void IsPrime_NonPrimeNumbersBetween2And20_ReturnFalse(int value) Parameters value int IsPrime_PrimeNumbersBetween2And20_ReturnTrue(int) [Theory] [InlineData(new object[] { 2 })] [InlineData(new object[] { 3 })] [InlineData(new object[] { 5 })] [InlineData(new object[] { 7 })] [InlineData(new object[] { 11 })] [InlineData(new object[] { 13 })] [InlineData(new object[] { 17 })] [InlineData(new object[] { 19 })] public void IsPrime_PrimeNumbersBetween2And20_ReturnTrue(int value) Parameters value int IsPrime_ValuesLessThan2_ReturnFalse(int) [Theory] [InlineData(new object[] { -1 })] [InlineData(new object[] { 0 })] [InlineData(new object[] { 1 })] public void IsPrime_ValuesLessThan2_ReturnFalse(int value) Parameters value int"
+  },
+  "docs/Primes.Tests.html": {
+    "href": "docs/Primes.Tests.html",
+    "title": "Namespace Primes.Tests | PrimeService App",
+    "summary": "Namespace Primes.Tests Classes PrimeServiceTests"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE. | PrimeService App",
+    "summary": "This is the HOMEPAGE. Pruebas HTML Diagrama de Clases Pruebas Markdown Documentacion Clases, atributos y métodos"
+  }
+}
